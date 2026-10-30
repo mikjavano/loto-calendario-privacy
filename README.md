@@ -53,7 +53,7 @@ le seguenti autorizzazioni di sistema:
 
 ---
 
-## Changelog e storico Aggiornamenti
+## ⌛ Changelog e storico Aggiornamenti
 
 1. **Miglioramento della comunicazione con l'utente con l'inserimento
 	  di un nuovo Dialog** interattivo per facilitare l'accesso alla guida 
