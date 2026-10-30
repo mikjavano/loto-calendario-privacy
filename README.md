@@ -54,17 +54,20 @@ le seguenti autorizzazioni di sistema:
 ---
 
 ## ⌛ Changelog e storico Aggiornamenti
-
-1. **Miglioramento della comunicazione con l'utente con l'inserimento
+1. **Release precedente:
+	  rimozione della richiesta di permissione: uses-permission android:name="com.android.vending.BILLING".
+   	  dimenticata e non utilizzata in Loto Calendario Version 1.1 precedente e del tutto inutile anche in
+   	  Loto Calendario Version 1.2.
+2. **Miglioramento della comunicazione con l'utente con l'inserimento
 	  di un nuovo Dialog** interattivo per facilitare l'accesso alla guida 
 	  online sul sito internet e alla guida ristretta e veloce interna a 
 	  Loto calendario.
-2. **Rimozione Librerie Orfane:**
+3. **Rimozione Librerie Orfane:**
       Eseguita una bonifica approfondita del codice sorgente con 
       l'eliminazione delle chiamate a librerie orfane e la rimozione di 
       riferimenti obsoleti all'interno delle classi, alleggerendo l'
       architettura complessiva.
-3. **Pulizia dei Log:**
+4. **Pulizia dei Log:**
       Rimozione dei Log di debug superflui per garantire 
       performance piu veloci durante l'uso dell'applicazione.
 5. **Ottimizzazione visiva del File Manager Integrato:**
